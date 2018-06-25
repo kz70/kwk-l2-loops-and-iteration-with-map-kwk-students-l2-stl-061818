@@ -10,6 +10,7 @@ function lowerCaseStudentNames (list) {
 return list.map(other)
 }
 
+<<<<<<< HEAD
 function splitName(name) {
   const studentFirst = name.split(" ")[0];
   const studentLast = name.split(" ")[1];
@@ -22,3 +23,5 @@ function nameToAttributes(list) {
 }
 
 
+=======
+>>>>>>> 92415c99ebb8e43d8710204721c65d0c676bbd1d
